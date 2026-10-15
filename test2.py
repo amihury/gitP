@@ -1,1 +1,1 @@
-print("ami")
+print("ami hury")
